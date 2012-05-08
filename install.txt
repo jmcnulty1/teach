@@ -1,0 +1,27 @@
+Overview (what a mess)
+   Mac - http://robots.thoughtbot.com/post/8700977975/2011-rubyists-guide-to-a-mac-os-x-development
+         http://seanlin.me/2011/08/12/setting-up-django-development-environment/
+   Win - http://slacy.com/blog/2011/06/django-postgresql-virtualenv-development-setup-for-windows-7/
+
+Python
+   Mac - http://www.python.org/download/mac/
+   Win - http://www.python.org/download/windows/
+
+Setuptools
+   Mac -
+   Win - http://pypi.python.org/pypi/setuptools#files
+   
+Virtualenv
+   sudo easy_install virtualenv
+   easy_install pip
+   virtualenv --no-site-packages venv
+   
+Pip
+   source venv/bin/activate etc etc
+   pip install -r pip.txt
+   
+Editor
+   Mac - textmate - http://macromates.com/
+         emacs    - http://emacsformacosx.com/
+   Win - emacs    - http://ftp.gnu.org/gnu/emacs/windows/
+   

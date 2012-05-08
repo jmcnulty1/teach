@@ -1,0 +1,20 @@
+### Install all required python libraries
+# (venv) $ pip install -r pip.txt
+
+# Python libraries
+ipython
+#pytz
+#psycopg2
+#PIL
+#boto
+#Markdown
+
+# Django-specific
+django
+South
+#django-sentry
+#django-mobile
+#django-piston
+#django-reversion
+#django-social-auth
+#django_compressor
